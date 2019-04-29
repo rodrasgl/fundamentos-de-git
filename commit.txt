@@ -4,3 +4,4 @@ Commit 3
 Commit 4
 Commit 5Force error merge
 Commit test_rebase 1
+Commit test_rebase 2
